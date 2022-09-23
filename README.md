@@ -58,3 +58,5 @@ Step - 1 : 2022.09.20 ~ 09.22
     
 ## 📚 참고 링크
 [LinkedList](https://blog.encrypted.gg/932?category=773649)
+
+[Generic](https://docs.swift.org/swift-book/LanguageGuide/Generics.html)
