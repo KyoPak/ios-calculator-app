@@ -60,3 +60,5 @@ Step - 1 : 2022.09.20 ~ 09.22
 [LinkedList](https://blog.encrypted.gg/932?category=773649)
 
 [Generic](https://docs.swift.org/swift-book/LanguageGuide/Generics.html)
+
+[UntTest Tips](https://yagom.net/courses/unit-test-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/)
